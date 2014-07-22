@@ -7,6 +7,7 @@ This repository contains information on patients with penile squamous cell carci
 * [Codebook:](https://github.com/alcideschaux/PenisHPVp16/blob/master/CODEBOOK.md) This page contains the description of the variables with labels and levels.
 * [Dataset:](https://github.com/alcideschaux/PenisHPVp16/blob/master/PenisDataset.csv) This file corresponds to the dataset that it is used for analysis.
 * [Figures:](https://github.com/alcideschaux/PenisHPVp16/tree/master/figure) This folder contains the figures (survival curves) in PNG format.
+* [R code](https://github.com/alcideschaux/PenisHPVp16/blob/master/hpvp16penis.Rmd) This file contains the R code that was used for analysis.
 
 ### Aim
 The aim of this project is to evaluate HPV status and p16INK4a immunohistochemical expression, accessing the relationship between HPV and p16INK4a and clinicopathologic and outcome features, and building prognostic models of penile cancer recurrence, progression, and outcome.
