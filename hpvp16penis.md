@@ -1,6 +1,3 @@
----
-output: html_document
----
 # HPV & p16INK4a Expression in Penile Cancer
 Last update: ``Tue Jul 22 15:14:21 2014``
 
