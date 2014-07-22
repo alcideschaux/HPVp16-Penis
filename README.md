@@ -1,15 +1,15 @@
-## HPV and p16INK4a in Penile Squamous Cell Carcinomas
+## HPV and p16INK4a in Penile SCC
 
 ### Description
-This dataset contains information on 59 patients with penile lesions, including penile intraepitheial neoplasia (PeIN) and squamous cell carcinoma (SCC). Formalin-fixed and paraffin-embedded tissue samples were used to build 2 tissue microarrays (TMA). Clinicopathologic and outcome information was obtained from medical records. This repository contains the following files, pages, and folders:
+This repository contains information on patients with penile squamous cell carcinoma (SCC) in whom human papillomavirus (HPV) status and p16INK4a expression were assessed. The repository contains the following files, pages, and folders:
 
-* [Results](https://github.com/alcideschaux/PenisHPVp16/blob/master/hpvp16penis.md) This page contains the results of the analysis.
-* [Codebook](https://github.com/alcideschaux/PenisHPVp16/blob/master/CODEBOOK.md) This page contains the description of the variables with labels and levels.
-* [Dataset](https://github.com/alcideschaux/PenisHPVp16/blob/master/PenisDataset.csv) This file corresponds to the dataset that it is used for analysis.
-* [Figures](https://github.com/alcideschaux/PenisHPVp16/tree/master/figure) This folder contains the figures (survival curves) in PNG format.
+* [Results:](https://github.com/alcideschaux/PenisHPVp16/blob/master/hpvp16penis.md) This page contains the results of the analysis.
+* [Codebook:](https://github.com/alcideschaux/PenisHPVp16/blob/master/CODEBOOK.md) This page contains the description of the variables with labels and levels.
+* [Dataset:](https://github.com/alcideschaux/PenisHPVp16/blob/master/PenisDataset.csv) This file corresponds to the dataset that it is used for analysis.
+* [Figures:](https://github.com/alcideschaux/PenisHPVp16/tree/master/figure) This folder contains the figures (survival curves) in PNG format.
 
 ### Aim
-The aim of this project is to evaluate human papillomavirus (HPV) status and p16INK4a immunohistochemical expression, accessing the relationship between HPV and p16INK4a and clinicopathologic and outcome features, and building prognostic models of penile cancer recurrence, progression, and outcome.
+The aim of this project is to evaluate HPV status and p16INK4a immunohistochemical expression, accessing the relationship between HPV and p16INK4a and clinicopathologic and outcome features, and building prognostic models of penile cancer recurrence, progression, and outcome.
 
 ### Material & Method
 #### Patient cohort
