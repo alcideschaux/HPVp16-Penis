@@ -1,4 +1,4 @@
-## Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression as Predictors of Outcome in Penile Squamous Cell Carcinomas
+## HPV and p16INK4a in Penile Squamous Cell Carcinomas
 
 ### Description
 This dataset contains information on 59 patients with penile lesions, including penile intraepitheial neoplasia (PeIN) and squamous cell carcinoma (SCC). Formalin-fixed and paraffin-embedded tissue samples were used to build 2 tissue microarrays (TMA). Clinicopathologic and outcome information was obtained from medical records. 
@@ -28,18 +28,18 @@ Survival curves were built using the Kaplan-Meier method and compared using the 
 Data were analyzed using R Version 3.1.1 “Sock it to Me” (R Foundation for Statistical Computing, Vienna, Austria).
 
 ### Researchers
-* Stephania M. Bezerra^1^
-* Alcides Chaux^1,2^
-* Mark W. Ball^3^
-* Sheila F. Faraj^1^
-* Enrico Munari^1^
-* Nilda Gonzalez-Roibon^1^
-* Rajni Sharma^1^
-* Trinity J. Bivalacqua^3^
-* Arthur L. Burnett^3^
-* George J. Netto^1,2,3^
+* Stephania M. Bezerra<sup>1</sup>
+* Alcides Chaux<sup>1,2</sup>
+* Mark W. Ball<sup>3</sup>
+* Sheila F. Faraj<sup>1</sup>
+* Enrico Munari<sup>1</sup>
+* Nilda Gonzalez-Roibon<sup>1</sup>
+* Rajni Sharma<sup>1</sup>
+* Trinity J. Bivalacqua<sup>3</sup>
+* Arthur L. Burnett<sup>3</sup>
+* George J. Netto<sup>1,2,3</sup>
 
-^1^Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore, MD 21231  
-^2^Norte University, Office of Scientific Research, Asunción, Paraguay  
-^3^Department of Urology, The Johns Hopkins Medical Institutions, Baltimore, MD 21231  
-^4^Department of Oncology, The Johns Hopkins Medical Institutions, Baltimore, MD 21231
+<sup>1</sup>Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore, MD 21231  
+<sup>2</sup>Norte University, Office of Scientific Research, Asunción, Paraguay  
+<sup>3</sup>Department of Urology, The Johns Hopkins Medical Institutions, Baltimore, MD 21231  
+<sup>4</sup>Department of Oncology, The Johns Hopkins Medical Institutions, Baltimore, MD 21231
